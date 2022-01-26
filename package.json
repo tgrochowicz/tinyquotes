@@ -1,5 +1,5 @@
 {
-  "name": "tinyquotes",
+  "name": "@tomcorp/tinyquotes",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
