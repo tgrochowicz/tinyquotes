@@ -1,4 +1,4 @@
-const { TinybotPlugin } = require('tinybot')
+const { TinybotPlugin } = require('@tomcorp/tinybot')
 
 class Tinyquotes extends TinybotPlugin {
     name = 'Tinyquotes';
